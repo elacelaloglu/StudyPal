@@ -1,9 +1,5 @@
  StudyPal: Yapay Zeka Destekli Akıllı Öğrenme Asistanı
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![Status](https://img.shields.io/badge/Durum-Tamamlandı-success)
-![Course](https://img.shields.io/badge/Ders-BOZ213_OOP-orange)
-
 StudyPal, biz öğrencilerin en büyük derdi olan yüzlerce sayfalık,  sıkıcı PDF ders notlarını; konuşan, soru soran ve özetleyen interaktif bir çalışma arkadaşına dönüştüren masaüstü uygulamasıdır.
 
 Bu proje,  OOP prensipleri ve modern yapay zeka teknolojileri (RAG Mimarisi) birleştirilerek geliştirilmiştir.
@@ -72,3 +68,4 @@ Algoritmalar: Threading (Paralel işlem) ile arayüz donmaları engellenmiş, Se
 
 👤 Geliştirici
 Bu proje Ela Nur Celaloğlu tarafından  hazırlanmıştır. Sorularınız veya önerileriniz için ulaşabilirsiniz! 
+
