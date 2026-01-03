@@ -14,7 +14,7 @@ Ders çalışırken PDF'ler arasında kaybolmak yerine, notlarla "sohbet edebile
  RAG Mimarisi (Akıllı Analiz):** PDF'i yüklediğinizde tüm metni vektörlere ayırır. Bir soru sorduğunuzda yapay zeka uydurmaz, sadece dokümandaki bilgiye dayanarak cevap verir.
  Podcast Modu (Favorim!):** Ders notlarını esprili ve samimi bir radyo programı senaryosuna dönüştürür. Ardından **Microsoft Edge-TTS** teknolojisiyle, nefes alan ve tonlama yapan doğal bir insan sesiyle (Ahmet/Neslihan) size anlatır.
  Profesör Modunda Özet:** Karmaşık akademik dili, anlaşılır maddeler haline getirir.
- Sınav (Quiz) Robotu:** İçerikten otomatik test soruları üretir. Yanlış yaparsanız "Bak şundan dolayı yanlış" diyerek doğrusunu öğretir.
+ Sınav (Quiz) Robotu: İçerikten otomatik test soruları üretir. Yanlış yaparsanız "Bak şundan dolayı yanlış" diyerek doğrusunu öğretir.
  Flashcards:** Ezberlenmesi gereken terimleri otomatik yakalar ve çalışma kartlarına dönüştürür.
 
 ---
@@ -68,4 +68,5 @@ Algoritmalar: Threading (Paralel işlem) ile arayüz donmaları engellenmiş, Se
 
 👤 Geliştirici
 Bu proje Ela Nur Celaloğlu tarafından  hazırlanmıştır. Sorularınız veya önerileriniz için ulaşabilirsiniz! 
+
 
