@@ -32,7 +32,7 @@ except ImportError as e:
     print("Çözüm: Terminale 'pip install edge-tts pygame mutagen' yazıp enterla.")
 
 # --- AYARLAR ---
-# API anahtarım. Normalde gizlemem lazım ama hoca çalıştırsın diye buraya koydum.
+# API anahtarım. 
 GROQ_API_KEY = "" 
 
 # --- TASARIM TERCİHLERİM ---
@@ -960,4 +960,5 @@ class StudyPalApp(ctk.CTk, TkinterDnD.DnDWrapper):
 # PROGRAMIN BAŞLANGIÇ NOKTASI
 if __name__ == "__main__":
     app = StudyPalApp() # Uygulamayı oluştur.
+
     app.mainloop()      # Pencereyi açık tut.
