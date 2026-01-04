@@ -1,8 +1,13 @@
-streamlit
+customtkinter
+tkinterdnd2
+langchain
+langchain-groq
 langchain-chroma
 langchain-huggingface
-langchain-groq
-chromadb
-pypdf
 langchain-community
+pypdf
+edge-tts
+pygame
+mutagen
+faiss-cpu
 sentence-transformers
